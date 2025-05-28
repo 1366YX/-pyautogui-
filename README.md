@@ -1,0 +1,2 @@
+# -pyautogui-
+通过python中的pyautogui库和mumu模拟器的虚拟定位功能不用早起就能自动实现某大学的早操打卡
